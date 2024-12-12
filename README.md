@@ -1,2 +1,2 @@
 # ICT-Project
-Sir Qasim: "Wow! Warra Praject."
+This projects displays the professional resume of abdul saboor khan!
